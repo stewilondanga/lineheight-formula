@@ -44,10 +44,11 @@ body {
   background: var(--highlight-str);
 }
 
-/*.Setting {
+.Setting {
   margin-bottom: 4rem;
 }
-.Setting__prop {
+
+/*.Setting__prop {
   font-size: 1rem;
 }
 
