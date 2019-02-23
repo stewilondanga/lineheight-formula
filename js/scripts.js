@@ -27,12 +27,10 @@ lineheightElem.addEventListener('change', () => {
 });
 // set from ui the fontsize and line height to see the differences
 
-/*
-
 //console.log(fontsize.value);
 // get variable from inline style
 
-
+/*
 
 getComputedStyle(currFontsize).getPropertyValue("--line-height");
 
