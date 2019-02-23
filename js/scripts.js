@@ -11,8 +11,8 @@ let currFontsize = document.querySelector('#elem');
 
 let currLineheight = document.querySelector('#elem span');
 
-/*let fontsizeElem = document.getElementById('font-size-1');
-let lineheightElem = document.getElementById('line-height-1');
+let fontsizeElem = document.getElementById('font-size-1');
+/*let lineheightElem = document.getElementById('line-height-1');
 
 
 let fontsize = fontsizeElem.value;
