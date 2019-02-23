@@ -48,11 +48,11 @@ body {
   margin-bottom: 4rem;
 }
 
-/*.Setting__prop {
+.Setting__prop {
   font-size: 1rem;
 }
 
-.Font {
+/*.Font {
   font-size: var(--font-size);
   margin: 3rem;
 }
