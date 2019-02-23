@@ -22,12 +22,12 @@ fontsizeElem.addEventListener('change', () => {
   currFontsize.style.setProperty("--font-size", fontsizeElem.value);
 });
 
-/*lineheightElem.addEventListener('change', () => {
-   currLineheight.style.setProperty("--line-height",  lineheightElem.value);
+lineheightElem.addEventListener('change', () => {
+  currLineheight.style.setProperty("--line-height", lineheightElem.value);
 });
 // set from ui the fontsize and line height to see the differences
 
-
+/*
 
 //console.log(fontsize.value);
 // get variable from inline style
