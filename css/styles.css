@@ -32,10 +32,11 @@ body {
   line-height: 1.4;
 }
 
-/*.Formula__result {
+.Formula__result {
   border: 3px solid var(--highlight-m);
 }
-.Formula__first {
+
+/*.Formula__first {
   background-color: var(--highlight);
 }
 .Formula__second {
