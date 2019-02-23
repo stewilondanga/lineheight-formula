@@ -18,11 +18,11 @@ let lineheightElem = document.getElementById('line-height-1');
 let fontsize = fontsizeElem.value;
 let lineheight = lineheightElem.value;
 
-/*fontsizeElem.addEventListener('change', () => {
-   currFontsize.style.setProperty("--font-size", fontsizeElem.value);
+fontsizeElem.addEventListener('change', () => {
+  currFontsize.style.setProperty("--font-size", fontsizeElem.value);
 });
 
-lineheightElem.addEventListener('change', () => {
+/*lineheightElem.addEventListener('change', () => {
    currLineheight.style.setProperty("--line-height",  lineheightElem.value);
 });
 // set from ui the fontsize and line height to see the differences
