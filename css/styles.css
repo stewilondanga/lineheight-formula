@@ -1,3 +1,12 @@
+:root {
+  --highlight: #F89406;
+  --highlight-w: #BE90D4;
+  --highlight-m: #19B5FE;
+  --highlight-str: #DB0A5B;
+  --line-height: 48px;
+  --font-size: 32px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,14 +30,6 @@
   height: 1.5em;
 }
 
-:root {
-  --highlight: #F89406;
-  --highlight-w: #BE90D4;
-  --highlight-m: #19B5FE;
-  --highlight-str: #DB0A5B;
-  --line-height: 48px;
-  --font-size: 32px;
-}
 
 body {
   box-sizing: border-box;
