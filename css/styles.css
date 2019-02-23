@@ -7,6 +7,12 @@
   --font-size: 32px;
 }
 
+body {
+  box-sizing: border-box;
+  background-color: #F5D76E;
+  font-family: 'Josefin Slab', serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -31,11 +37,6 @@
 }
 
 
-body {
-  box-sizing: border-box;
-  background-color: #F5D76E;
-  font-family: 'Josefin Slab', serif;
-}
 
 .Formula {
   line-height: 1.4;
