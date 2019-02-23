@@ -36,10 +36,11 @@ body {
   border: 3px solid var(--highlight-m);
 }
 
-/*.Formula__first {
+.Formula__first {
   background-color: var(--highlight);
 }
-.Formula__second {
+
+/*.Formula__second {
   background: var(--highlight-str);
 }
 
