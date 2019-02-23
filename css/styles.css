@@ -52,11 +52,12 @@ body {
   font-size: 1rem;
 }
 
-/*.Font {
+.Font {
   font-size: var(--font-size);
   margin: 3rem;
 }
-.Font__serif {
+
+/*.Font__serif {
   font-family: 'Josefin Slab', serif;
   background-color: var(--highlight);
   display: none;
