@@ -16,9 +16,9 @@ let lineheightElem = document.getElementById('line-height-1');
 
 
 let fontsize = fontsizeElem.value;
-/*let lineheight = lineheightElem.value;
+let lineheight = lineheightElem.value;
 
-fontsizeElem.addEventListener('change', () => {
+/*fontsizeElem.addEventListener('change', () => {
    currFontsize.style.setProperty("--font-size", fontsizeElem.value);
 });
 
