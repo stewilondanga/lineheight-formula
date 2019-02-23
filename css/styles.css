@@ -95,13 +95,13 @@ body {
   display: none;
 }
 
-/*.Font__monospace {
+.Font__monospace {
   background-color: var(--highlight-m);
   font-family: 'Source Code Pro', monospace;
   display: none;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
