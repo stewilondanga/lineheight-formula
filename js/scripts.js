@@ -31,7 +31,7 @@ lineheightElem.addEventListener('change', () => {
 // get variable from inline style
 
 getComputedStyle(currFontsize).getPropertyValue("--line-height");
-/*
+
 //element.style.getPropertyValue("--line-height");
 
 // get variable from wherever
